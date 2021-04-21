@@ -1,19 +1,47 @@
-A6ACC9 - Wild Blue Yonder - home page
 
-5A5E71- Independence (dark gray) - apple pie 
+h1 {
+	color: #7C9FB6;
+	text-align: center;
+	font-family: Gerogia;
+	font-size:42px;
+}
 
-898E9C-Roman Silver (light gray)- banana bread 
+body{
+	background-color:lightblue;
+}
 
+p{
+	color:#5A5E71;
+	font-size:24px;
+	font-style:italic;
+	font-family: Noto Sans SC, sans-serif;
+}
+
+li{
+	font-family:'Libre Baskerville', serif;
+	font-size:14px;
+	color:#A6ACC9;
+}
+
+img{
+	border-width: 2px;
+	border-style: dotted;
+	border-color: #7F2982;
+}
+
+
+7F2982
+
+
+A6ACC9 - Wild Blue Yonder -age
+
+5A5E71- Independence (dark gray) - 
+
+898E9C-Roman Silver (light gray)- 
 7C9FB6- Air Superiority Blue (blue) - Brookies 
 
 
-
-
-
-all headings- <link rel="preconnect" href="https://fonts.gstatic.com"> 
-<link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@1,500&display=swap" rel="stylesheet">
-font-family: 'Montserrat', sans-serif;
-
+ 
 
 subtitle- <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@1,300&display=swap" rel="stylesheet">
 font-family: 'Montserrat', sans-serif;
