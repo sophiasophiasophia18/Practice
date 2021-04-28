@@ -2,12 +2,23 @@
 h1 {
 	color: #7C9FB6;
 	text-align: center;
-	font-family: Gerogia;
+	font-family: Libre Baskerville, sans-serif;
 	font-size:42px;
 }
 
 body{
 	background-color:lightblue;
+}
+
+.center{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 60;
+}
+
+a:hover{
+	color: #ffffff;
 }
 
 p{
@@ -18,7 +29,7 @@ p{
 }
 
 li{
-	font-family:'Libre Baskerville', serif;
+	font-family:'Georgia', serif;
 	font-size:14px;
 	color:#A6ACC9;
 }
@@ -42,6 +53,5 @@ A6ACC9 - Wild Blue Yonder -age
 
 
  
-
-subtitle- <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@1,300&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@1,300&display=swap" rel="stylesheet">
 font-family: 'Montserrat', sans-serif;
